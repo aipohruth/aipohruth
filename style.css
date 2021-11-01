@@ -38,14 +38,14 @@ nav ul li a{
     text-decoration: none;
     color: black;
     font-size: 16px;
-    font-weight: 500;
-    font-family: 'Patrick Hand', cursive;
+    font-weight: 600;
+    text-transform: uppercase;
 }
 nav ul li a:hover{
     color: #ffdcbe;
     transition: 0.4s;
     padding-left: 2px;
-    text-transform: uppercase;
+    text-transform: capitalize;
 }
 nav li + li ::before{
     content: "|";
