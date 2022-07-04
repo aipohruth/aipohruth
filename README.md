@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @aipohruth
-- 👀 I’m interested in web development
+- 👀 I love web development.
 - 🌱 I’m currently learning javascript
-- 💞️ I’m looking to collaborate on front end web development
+- 💞️ I’m looking to collaborate on front end web development projects
 - 📫 How to reach me aipohruth@gmail.com
 
 <!---
