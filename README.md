@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @aipohruth
 - 👀 I love web development.
-- 🌱 I’m currently learning javascript
+- 🌱 I’m currently learning react and running a Nanodegree Program with udacity courtesy of ALX
 - 💞️ I’m looking to collaborate on front end web development projects
 - 📫 How to reach me aipohruth@gmail.com
 
