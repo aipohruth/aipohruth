@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @aipohruth
 - 👀 I love web development.
-- 🌱 I’m currently learning react and running a Nanodegree Program with udacity courtesy of ALX
-- 💞️ I’m looking to collaborate on front end web development projects
+- 🌱I have completed a Nanodegree Program with udacity courtesy of ALX
+- 💞️ I’m looking to collaborate on front end web development projects(React.js)
 - 📫 How to reach me aipohruth@gmail.com
 
 <!---
